@@ -2,4 +2,4 @@
 Virtual Internship - Android Application Development Using Kotlin
 submitted by Ankit thalwal
 id = AnkitSB20220227152
-emailid= ankithalwal2002@gmail.com
+emailid= ankitthalwal2002@gmail.com
